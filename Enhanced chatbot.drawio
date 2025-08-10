@@ -5,31 +5,31 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-1" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;MAIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="80" width="65" height="60" as="geometry" />
+          <mxGeometry x="431.25" y="60" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-3" value="STRING&amp;nbsp;&lt;div&gt;NAME&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="406.25" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="737.5" y="200" width="65" height="60" as="geometry" />
+          <mxGeometry x="433.75" y="180" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-5" value="OUTPUT &quot;WHAT IS YOUR NAME?&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="682.5" y="260" width="170" height="80" as="geometry" />
+          <mxGeometry x="378.75" y="240" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="340" width="65" height="60" as="geometry" />
+          <mxGeometry x="431.25" y="320" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-7" value="INPUT NAME&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="720" y="400" width="100" height="60" as="geometry" />
+          <mxGeometry x="416.25" y="380" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="460" width="65" height="60" as="geometry" />
+          <mxGeometry x="431.25" y="440" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NC4rCkCzwLzJrV5_S0iY-9" value="OUTPUT&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="710" y="520" width="100" height="60" as="geometry" />
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-9" value="OUTPUT&quot;Hello there,&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&quot;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;amp;name&amp;amp; &quot;I&#39;m a chatbot!&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="370" y="500" width="166.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
