@@ -79,6 +79,45 @@
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-27" value="OUTPUT&quot;Thats unfortunate&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="116" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="870" width="70" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="406" y="1050" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="136" y="1060" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1110" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1110" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-34" value="STRING HOBBIES" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="406" y="1240" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-38" value="OUTPUT&quot;&quot;What hobbies do you enjoy?&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="406" y="1360" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-40" value="INPUT HOBBIES" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="1520" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-42" value="OUTPUT &amp;amp;HOBBIES&amp;amp; &quot;I like that too&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="359.5" y="1620" width="149" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-43" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="406" y="1690" width="70" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
