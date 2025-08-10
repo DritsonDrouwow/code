@@ -31,6 +31,30 @@
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-9" value="OUTPUT&quot;Hello there,&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&quot;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;amp;name&amp;amp; &quot;I&#39;m a chatbot!&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="370" y="500" width="166.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="431.25" y="570" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-11" value="Are you feeling well&amp;nbsp;&lt;div&gt;today?&quot;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="385.75" y="630" width="156" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow;dy1=0.67;dx1=18;dx2=18;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="650" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow;dy1=0.67;dx1=18;dx2=18;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="285.75" y="650" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="710" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="710" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-16" value="True" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="630" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-17" value="False" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
