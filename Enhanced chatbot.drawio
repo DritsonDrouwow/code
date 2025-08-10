@@ -55,6 +55,24 @@
         <mxCell id="NC4rCkCzwLzJrV5_S0iY-17" value="False" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="630" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-18" value="OUTPUT&quot; That is good to hear&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-20" value="OUTPUT&quot;Are you feeling alright?&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236.25" y="810" width="137.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="820" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="136" y="830" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="890" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NC4rCkCzwLzJrV5_S0iY-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
