@@ -1,0 +1,26 @@
+print("Hello there, whats your name?")
+name = str(input("name: "))
+print("Hi, ", name ,",I'm chatbot")
+
+print("How are you feeling today? Good? Bad? or neutral?")
+mood = input("your mood: ").strip().lower()
+if mood == "good":
+    print("THat is some fantastic news!")
+elif mood == "bad":
+    print("That is unfortunate, hopefully you can feel happier next time we talk!")
+else:
+    mood == "neutral"
+    print("Well that is alright")
+print("I would like to know about your hobbies, what are they?")
+hobbies = input("hobbies: ")
+print("Thats so cool!", hobbies, "is one of my favourite things to do too!")
+
+print("Would you like to continue chatting?")
+chat = input("Yes or no?: ").strip().lower()
+if chat == "yes":
+    print("I would like to know about your other hobbies, what are they?")
+    hobbies = input("hobbies: ")
+    print("Thats so cool!", hobbies, "is also one of my favourite things to do too!")
+else:
+    print("It was nice chatting with you, thank you for your time!")
+    
